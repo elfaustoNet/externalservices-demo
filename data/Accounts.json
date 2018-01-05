@@ -1,0 +1,43 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Appy Cat",
+            "AccountNumber": "123456",
+            "BillingStreet": "3460 Kingsboro Rd NE",
+            "BillingCity": "Atlanta",
+            "BillingState": "GA",
+            "BillingPostalCode": "30326",
+            "BillingCountry": "USA",
+            "Phone": "555 555-5555",
+            "Ownership": "Other",
+            "NumberOfEmployees": 50,
+            "Industry": "Biotechnology",
+            "AnnualRevenue": 100000000
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "Burlington Textiles Corp of America",
+            "BillingStreet": "525 S Lexington Ave",
+            "BillingCity": "Burlington",
+            "BillingState": "NC",
+            "BillingPostalCode": "27215",
+            "BillingCountry": "USA",
+            "Phone": "(336) 222-7000",
+            "Fax": "(336) 222-8000",
+            "Ownership": "Public",
+            "NumberOfEmployees": 9000,
+            "Website": "www.burlington.com",
+            "Industry": "Apparel",
+            "AnnualRevenue": 350000000,
+            "TickerSymbol": "BTXT",
+            "Sic": "546732"
+        }
+    ]
+}
