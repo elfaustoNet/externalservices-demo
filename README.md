@@ -7,11 +7,11 @@ After pushing this code to your org, ensure that the flow is active and that the
 
 ## Resources
 Salesforce Documentation related to the components leveraged in this demo.
-Visual Workflow [Guide](https://developer.salesforce.com/docs/atlas.en-us.salesforce_vpm_guide.meta/salesforce_vpm_guide/vpm_intro.htm)
+[Visual Workflow Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.salesforce_vpm_guide.meta/salesforce_vpm_guide/vpm_intro.htm)
 
-Named Credentials [Guide](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials.htm)
+[Named Credentials](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials.htm)
 
-External Services [help page](https://help.salesforce.com/articleView?id=external_services.htm)
+[External Services](https://help.salesforce.com/articleView?id=external_services.htm)
 
 
 
