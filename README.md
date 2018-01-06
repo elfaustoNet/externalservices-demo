@@ -32,15 +32,13 @@ After pushing this code to your org, ensure that the flow is active and that the
 2. Click "New Flow" button
 3. Drag and drop Flow Elements from the Palette tab to the cavas. Connect the Elements as appropriate. 
 ![Flow Canvas](./images/FlowCanvas.png)
-
-  Methods created from External Services will show up under the Apex section in the Palette. 
-  ![Flow Palette](./images/Flowpalette.png) 
+Methods created from External Services will show up under the Apex section in the Palette. 
+![Flow Palette](./images/Flowpalette.png) 
 
 
 4. Save completed Flow and activate.
 5. Embed flow on page using the Flow lightning component.
-
-![Flow Embedded on Account Page](./images/FlowEmbedded.png)
+   ![Flow Embedded on Account Page](./images/FlowEmbedded.png)
 
 ## Resources
 Salesforce Documentation related to the components leveraged in this demo.
