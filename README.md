@@ -15,7 +15,7 @@ To do this, run the following command:<br>
 If these items are not completed, the flow will not run properly.
 
 ## How To Demo
-You can demo this by opening an account record, click on the "Get Credit Rating" tab, and navigate through the flow. The flow will display the credit rating from the external service and updates the account record.
+You can demo this by opening an account record, click on the "Get Credit Rating" tab, and navigate through the flow. The flow will display the credit rating from the external service and update the account record.
 
 
 ## Steps to Recreate in a Live Demo
