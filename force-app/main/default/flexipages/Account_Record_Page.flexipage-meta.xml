@@ -36,14 +36,6 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
-            <componentName>runtime_sales_social:socialPanel</componentName>
-        </componentInstances>
-        <mode>Replace</mode>
-        <name>newsTabContent</name>
-        <type>Facet</type>
-    </flexiPageRegions>
-    <flexiPageRegions>
-        <componentInstances>
             <componentInstanceProperties>
                 <name>flowArguments</name>
                 <value>[{"label":"AccountId","dataType":"String","supportsRecordId":true,"value":"{!Record.Id}"}]</value>
